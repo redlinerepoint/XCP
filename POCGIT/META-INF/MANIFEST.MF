@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Require-Bundle: xcp.xcpcore;bundle-version="2.3.0", xcpui.xcpui;bundle
+ -version="2.3.0", xcpcomm.xcpcommons;bundle-version="2.3.0"
+Bundle-ClassPath: .
+Bundle-Version: 1.0.0.201907101618
+EMC-XCP-ExecutionEnvironment: com.emc.executionenvironment.xcp:2.3.320
+ .1801
+Bundle-Name: POCGIT
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: pocgit.POCGIT
+NAMESPACE: pocgit
+
