@@ -335,6 +335,8 @@
 	
 			
   </pluginRepositories>
+
+
 <dependencies>
     <dependency>
       <groupId>com.emc.xcp.ui</groupId>
@@ -482,6 +484,14 @@
       <version>2.3.0.201905171325</version>
       <type>jar</type>
       <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>dsvg</groupId>
+      <artifactId>SWidget</artifactId>
+      <version>1.0.0</version>
+      <type>jar</type>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/lib/dsvg.SWidget-1.0.0.jar</systemPath>
     </dependency>
   </dependencies>
 </project>

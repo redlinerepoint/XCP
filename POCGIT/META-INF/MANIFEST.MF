@@ -1,8 +1,9 @@
 Manifest-Version: 1.0
-Require-Bundle: xcp.xcpcore;bundle-version="2.3.0", xcpui.xcpui;bundle
- -version="2.3.0", xcpcomm.xcpcommons;bundle-version="2.3.0"
+Require-Bundle: xcp.xcpcore;bundle-version="2.3.0", dsvg.SWidget;bundl
+ e-version="1.0.0", xcpui.xcpui;bundle-version="2.3.0", xcpcomm.xcpcom
+ mons;bundle-version="2.3.0"
 Bundle-ClassPath: .
-Bundle-Version: 1.0.0.201907101618
+Bundle-Version: 1.0.0.201907101716
 EMC-XCP-ExecutionEnvironment: com.emc.executionenvironment.xcp:2.3.320
  .1801
 Bundle-Name: POCGIT
